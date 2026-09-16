@@ -1,8 +1,10 @@
 16-Sep-2026
 
-<!-- notify 1/2 · PjVW0COF -->
-## Notification 1/2
-Round: Round 1
-To: angelmoon72645@yahoo.com, angelmpichardo@yahoo.com
-At: 2026-09-16 15:31:46
-Id: PjVW0COF
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: angelmurff@yahoo.com, angelmurl@yahoo.com
+At: 2026-09-16 15:31:54
+Id: c1Bs8OuT
